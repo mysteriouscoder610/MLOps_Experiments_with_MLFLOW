@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/310778740811021424/ec848e07d22849049e4c6af07c0438ef/artifacts
+end_time: 1757068264350
+entry_point_name: ''
+experiment_id: '310778740811021424'
+lifecycle_stage: active
+run_id: ec848e07d22849049e4c6af07c0438ef
+run_name: bold-owl-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757068260169
+status: 3
+tags: []
+user_id: ayush jha

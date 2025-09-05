@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/310778740811021424/0c5ad07e93204863b408e9a371d27a88/artifacts
+end_time: 1757066223157
+entry_point_name: ''
+experiment_id: '310778740811021424'
+lifecycle_stage: active
+run_id: 0c5ad07e93204863b408e9a371d27a88
+run_name: stately-sponge-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757066221982
+status: 3
+tags: []
+user_id: ayush jha

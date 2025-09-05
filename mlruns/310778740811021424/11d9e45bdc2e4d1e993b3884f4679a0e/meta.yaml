@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/310778740811021424/11d9e45bdc2e4d1e993b3884f4679a0e/artifacts
+end_time: 1757068365364
+entry_point_name: ''
+experiment_id: '310778740811021424'
+lifecycle_stage: active
+run_id: 11d9e45bdc2e4d1e993b3884f4679a0e
+run_name: upset-bee-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757068361811
+status: 3
+tags: []
+user_id: ayush jha

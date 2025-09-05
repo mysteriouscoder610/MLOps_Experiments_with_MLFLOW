@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/310778740811021424/105f443f948c456fac57837645e4e3e1/artifacts
+end_time: 1757067261187
+entry_point_name: ''
+experiment_id: '310778740811021424'
+lifecycle_stage: active
+run_id: 105f443f948c456fac57837645e4e3e1
+run_name: fearless-hound-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757067246600
+status: 3
+tags: []
+user_id: ayush jha

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67febb7f8d524eedb80434096bd25bc3/artifacts
+end_time: 1757007125164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67febb7f8d524eedb80434096bd25bc3
+run_name: worried-stag-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757007124667
+status: 3
+tags: []
+user_id: ayush jha

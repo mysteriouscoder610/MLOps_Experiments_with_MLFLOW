@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/055df76c1e8c40e28fdf81fb1c142484/artifacts
+end_time: 1757005845479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 055df76c1e8c40e28fdf81fb1c142484
+run_name: nebulous-bee-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005845354
+status: 3
+tags: []
+user_id: ayush jha
