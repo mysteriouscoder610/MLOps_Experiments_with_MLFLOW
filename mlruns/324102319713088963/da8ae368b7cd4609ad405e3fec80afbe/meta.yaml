@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/machine%20learning%20duniya/MLops%20Learning/MLOps_Experiments_with_MLFLOW/mlruns/324102319713088963/da8ae368b7cd4609ad405e3fec80afbe/artifacts
+end_time: 1757091796723
+entry_point_name: ''
+experiment_id: '324102319713088963'
+lifecycle_stage: active
+run_id: da8ae368b7cd4609ad405e3fec80afbe
+run_name: handsome-carp-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757091796671
+status: 3
+tags: []
+user_id: ayush jha
